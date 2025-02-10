@@ -1,8 +1,9 @@
 # 💫 About Me:
-Senior Frontend Developer @ Niloom.ai<br>🔭 Building a social sharing platform for immersive AR/VR experiences<br>📚 Proficient in React, Next.js, TypeScript, Tanstack/react-query, and Three.js for modern web development <br>🤝 Looking for help with Three.js Rapier physics engine<br>🌱 Currently learning React Three Fiber (R3F) and Assembly Script<br>💬 Ask me about Next.js optimization, building reusable components, creating scalable frontend architectures<br>⚡ Fun fact: I build my first [website](https://voyageinstyle.net) only 3 months after learning coding
+### Senior Frontend Developer @ Niloom.ai<br>
+🔭 Building a social sharing platform for immersive AR/VR experiences<br>📚 Proficient in React, Next.js, TypeScript, Tanstack/react-query, and Three.js for modern web development <br>🤝 Looking for help with Three.js Rapier physics engine<br>🌱 Currently learning React Three Fiber (R3F) and Assembly Script<br>💬 Ask me about Next.js optimization, building reusable components, creating scalable frontend architectures<br>⚡ Fun fact: I build my first [website](https://voyageinstyle.net) only 3 months after learning coding
 
-
-## 🌐 Socials:
+  ## 🌐 Portfolio & Socials:
+ThreeJS / R3F [Portfolio](https://www.hamiltonseguin.dev/)<br/><br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-seguin-6a5783270/) 
 
 # 💻 Tech Stack:
