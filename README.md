@@ -4,7 +4,7 @@
 
   ## 🌐 Portfolio & Socials:
 ThreeJS / R3F [Portfolio](https://www.hamiltonseguin.dev/)<br/><br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-seguin-6a5783270/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamilton-seguin/) 
 
 # 💻 Tech Stack:
   ## Languages:
